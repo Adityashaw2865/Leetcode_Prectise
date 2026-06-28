@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
