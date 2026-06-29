@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
