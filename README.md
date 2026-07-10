@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0002-add-two-numbers) |
 | [0263-ugly-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
