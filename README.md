@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0441-arranging-coins](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0441-arranging-coins) |
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
