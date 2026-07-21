@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0441-arranging-coins) |
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
@@ -142,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
