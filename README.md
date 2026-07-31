@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0136-single-number) |
 ## Game Theory
 |  |
 | ------- |
