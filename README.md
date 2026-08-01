@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
