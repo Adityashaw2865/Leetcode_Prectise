@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0263-ugly-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0136-single-number) |
 ## Game Theory
