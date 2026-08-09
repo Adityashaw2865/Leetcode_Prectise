@@ -13,15 +13,12 @@ public:
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
-            if (nums[mid] == target) {
-                first = mid;
+            if (nums[mid] >= target) {
+                if(nums[mid] == target) first = mid;
                 right = mid - 1;
             }
-            else if (nums[mid] < target) {
+            else{
                 left = mid + 1;
-            }
-            else {
-                right = mid - 1;
             }
         }
 
@@ -32,14 +29,11 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (nums[mid] == target) {
-                last = mid;
+            if (nums[mid] <= target) {
+                if(nums[mid] == target) last = mid;
                 low = mid + 1;
             }
-            else if (nums[mid] < target) {
-                low = mid + 1;
-            }
-            else {
+            else{
                 high = mid - 1;
             }
         }
