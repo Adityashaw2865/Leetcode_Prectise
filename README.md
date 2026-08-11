@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
