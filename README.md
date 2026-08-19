@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
