@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
