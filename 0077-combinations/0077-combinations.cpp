@@ -11,11 +11,11 @@ public:
 
         // remaining numbers me se choose karo
         for (int i = start; i <= n; i++) {
-            temp.push_back(i);          // choose
+            temp.push_back(i);          
 
-            solve(i + 1, n, k, temp);   // next number
+            solve(i + 1, n, k, temp);
 
-            temp.pop_back();            // undo / backtrack
+            temp.pop_back();            
         }
     }
 
