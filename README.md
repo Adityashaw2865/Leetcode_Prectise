@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
