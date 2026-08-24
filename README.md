@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
