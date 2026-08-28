@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1991-find-the-middle-index-in-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2367-number-of-arithmetic-triplets) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
