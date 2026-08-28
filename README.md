@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
 | ------- |
