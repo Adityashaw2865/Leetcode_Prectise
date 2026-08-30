@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1991-find-the-middle-index-in-array) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
