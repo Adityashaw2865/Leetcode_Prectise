@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1207-unique-number-of-occurrences) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
 |  |
