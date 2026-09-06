@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0213-house-robber-ii) |
