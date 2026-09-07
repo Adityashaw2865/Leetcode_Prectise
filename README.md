@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3668-restore-finishing-order](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1672-richest-customer-wealth) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Monotonic Stack
 |  |
 | ------- |
