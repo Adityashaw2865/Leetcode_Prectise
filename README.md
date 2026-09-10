@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0771-jewels-and-stones) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
