@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0287-find-the-duplicate-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
