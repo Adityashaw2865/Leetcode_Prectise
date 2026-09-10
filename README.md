@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0151-reverse-words-in-a-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
