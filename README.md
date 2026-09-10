@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2942-find-words-containing-character) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2396-strictly-palindromic-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
