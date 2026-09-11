@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1025-divisor-game) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
