@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2367-number-of-arithmetic-triplets) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
