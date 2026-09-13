@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0901-online-stock-span) |
 | [2000-reverse-prefix-of-word](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2390-removing-stars-from-a-string) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0901-online-stock-span](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0901-online-stock-span) |
 ## Graph Theory
 |  |
 | ------- |
@@ -600,4 +602,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
