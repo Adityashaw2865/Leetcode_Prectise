@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
