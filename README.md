@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2652-sum-multiples) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2485-find-the-pivot-integer) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
