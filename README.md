@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
