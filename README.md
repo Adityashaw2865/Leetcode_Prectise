@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1207-unique-number-of-occurrences) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0289-game-of-life) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1920-build-array-from-permutation) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0835-image-overlap) |
+| [0867-transpose-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1572-matrix-diagonal-sum) |
