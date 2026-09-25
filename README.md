@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1550-three-consecutive-odds) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
