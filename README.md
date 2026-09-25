@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1528-shuffle-string) |
+| [1629-slowest-key](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1773-count-items-matching-a-rule) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1572-matrix-diagonal-sum) |
+| [1629-slowest-key](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1629-slowest-key) |
 | [1652-defuse-the-bomb](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
