@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
