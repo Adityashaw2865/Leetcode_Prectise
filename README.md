@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1480-running-sum-of-1d-array) |
