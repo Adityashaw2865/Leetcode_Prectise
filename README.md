@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1773-count-items-matching-a-rule) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1991-find-the-middle-index-in-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
