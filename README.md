@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1572-matrix-diagonal-sum) |
 | [1629-slowest-key](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1629-slowest-key) |
+| [1646-get-maximum-in-generated-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
+| [1646-get-maximum-in-generated-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2011-final-value-of-variable-after-performing-operations) |
