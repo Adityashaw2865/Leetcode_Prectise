@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0075-sort-colors) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0498-diagonal-traverse) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0289-game-of-life) |
