@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0771-jewels-and-stones) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0771-jewels-and-stones) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
