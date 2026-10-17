@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3731-find-missing-elements) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
