@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
