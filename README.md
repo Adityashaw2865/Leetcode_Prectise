@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0141-linked-list-cycle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0151-reverse-words-in-a-string) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0056-merge-intervals) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0088-merge-sorted-array) |
