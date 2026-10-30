@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2409-count-days-spent-together) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
