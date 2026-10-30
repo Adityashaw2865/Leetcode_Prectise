@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3270-find-the-key-of-the-numbers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3345-smallest-divisible-digit-product-i) |
