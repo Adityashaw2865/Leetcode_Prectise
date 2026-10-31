@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Counting
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3794-reverse-string-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3701-compute-alternating-sum) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3925-concatenate-array-with-reverse) |
