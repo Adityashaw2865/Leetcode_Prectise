@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0498-diagonal-traverse) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0645-set-mismatch) |
