@@ -737,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0678-valid-parenthesis-string) |
+| [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Brainteaser
 |  |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0128-longest-consecutive-sequence) |
+| [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
 ## Monotonic Queue
 |  |
 | ------- |
