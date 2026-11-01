@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0289-game-of-life) |
+| [0334-increasing-triplet-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -890,4 +892,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0239-sliding-window-maximum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
