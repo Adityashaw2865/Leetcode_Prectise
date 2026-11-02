@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1480-running-sum-of-1d-array) |
