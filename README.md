@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3019-number-of-changing-keys) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3110-score-of-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -912,8 +916,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
