@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1773-count-items-matching-a-rule) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
