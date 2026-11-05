@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1629-slowest-key](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1629-slowest-key) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1598-crawler-log-folder) |
 | [1629-slowest-key](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1629-slowest-key) |
 | [1646-get-maximum-in-generated-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1646-get-maximum-in-generated-array) |
 | [1652-defuse-the-bomb](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1652-defuse-the-bomb) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1598-crawler-log-folder](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
