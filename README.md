@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0922-sort-array-by-parity-ii) |
+| [0946-validate-stack-sequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0498-diagonal-traverse) |
 | [0844-backspace-string-compare](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
 | [1646-get-maximum-in-generated-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1688-count-of-matches-in-tournament) |
