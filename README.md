@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
+| [3467-transform-array-by-parity](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3467-transform-array-by-parity](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3467-transform-array-by-parity](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3731-find-missing-elements) |
