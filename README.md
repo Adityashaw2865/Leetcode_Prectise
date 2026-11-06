@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -939,4 +942,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
