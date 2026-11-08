@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2206-divide-array-into-equal-pairs) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1672-richest-customer-wealth) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
+| [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -927,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0128-longest-consecutive-sequence) |
 | [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
+| [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
 ## Monotonic Queue
 |  |
 | ------- |
