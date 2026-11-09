@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2000-reverse-prefix-of-word) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1672-richest-customer-wealth) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1773-count-items-matching-a-rule](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1920-build-array-from-permutation) |
