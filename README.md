@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3467-transform-array-by-parity](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3483-unique-3-digit-even-numbers) |
+| [3523-make-array-non-decreasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3523-make-array-non-decreasing) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2390-removing-stars-from-a-string) |
+| [3523-make-array-non-decreasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3523-make-array-non-decreasing) |
 ## Simulation
 |  |
 | ------- |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3523-make-array-non-decreasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3523-make-array-non-decreasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0901-online-stock-span) |
+| [3523-make-array-non-decreasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3523-make-array-non-decreasing) |
 ## Graph Theory
 |  |
 | ------- |
