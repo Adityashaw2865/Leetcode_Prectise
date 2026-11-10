@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0771-jewels-and-stones) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1108-defanging-an-ip-address) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1528-shuffle-string) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1004-max-consecutive-ones-iii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
