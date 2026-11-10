@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3693-climbing-stairs-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
