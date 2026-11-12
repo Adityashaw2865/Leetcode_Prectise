@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1446-consecutive-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
