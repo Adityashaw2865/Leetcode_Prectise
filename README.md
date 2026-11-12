@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0835-image-overlap) |
