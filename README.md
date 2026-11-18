@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-get-maximum-in-generated-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1920-build-array-from-permutation) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2161-partition-array-according-to-given-pivot) |
