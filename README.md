@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3523-make-array-non-decreasing](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3523-make-array-non-decreasing) |
