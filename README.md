@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -834,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0765-couples-holding-hands](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0765-couples-holding-hands) |
+| [0938-range-sum-of-bst](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Queue
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0938-range-sum-of-bst](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Indexed Tree
 |  |
