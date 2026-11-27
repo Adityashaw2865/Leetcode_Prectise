@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0263-ugly-number) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/0191-number-of-1-bits) |
