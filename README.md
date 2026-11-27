@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3364-minimum-positive-sum-subarray) |
