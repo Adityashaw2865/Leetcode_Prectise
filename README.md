@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1572-matrix-diagonal-sum) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2778-sum-of-squares-of-special-elements) |
