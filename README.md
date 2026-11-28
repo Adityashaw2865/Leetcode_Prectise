@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2418-sort-the-people](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
