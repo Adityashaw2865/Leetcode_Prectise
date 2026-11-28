@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2942-find-words-containing-character) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2485-find-the-pivot-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Adityashaw2865/Leetcode_Prectise/tree/master/3427-sum-of-variable-length-subarrays) |
